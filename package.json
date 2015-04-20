@@ -1,0 +1,30 @@
+{
+  "name": "dom-task",
+  "version": "1.0.0",
+  "description": "Dominion Enterprise Task",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aag1091/dom-intern-tasks.git"
+  },
+  "author": "Avinash Gosavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aag1091/dom-intern-tasks/issues"
+  },
+  "homepage": "https://github.com/aag1091/dom-intern-tasks"
+}
